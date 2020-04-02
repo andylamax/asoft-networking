@@ -13,7 +13,5 @@ pluginManagement {
     }
 }
 
-//enableFeaturePreview('GRADLE_METADATA')
-
 rootProject.name = "asoft-networking"
 
